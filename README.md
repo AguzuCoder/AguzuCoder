@@ -61,7 +61,7 @@ I have extensive experience developing enterprise applications with Java and Spr
 
 ## Education
 
-- Certificate in Java Development
+- Certificate in Java Development Saint Petersburg College, FL
 
 ## Contact
 
