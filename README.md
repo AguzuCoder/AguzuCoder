@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Willie Cortez
+# I'm Willie Cortez
 
-## Full-Stack Web Developer
+## A Full-Stack Web Developer
 
 Specializing in Java, Spring Boot, and JPA development.
 
@@ -67,9 +67,9 @@ I have extensive experience developing enterprise applications with Java and Spr
 
 Feel free to reach out to me for collaboration or opportunities:
 
-- GitHub: [github.com/williecortez](https://github.com/williecortez)
+- GitHub: [github.com/aguzucoder](https://github.com/aguzucoder)
 - Email: aguzu.coder@gmail.com
-- LinkedIn: [linkedin.com/in/williecortez](https://linkedin.com/in/williecortez)
+- LinkedIn: Coming Soon
 
 ---
 
