@@ -79,7 +79,7 @@ I am a passionate Full-Stack Web Developer with expertise in building robust and
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>
 <a href="https://jenkins.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" height="50" /></a>
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/aguzucoder">
     <img src="https://skillicons.dev/icons?i=postman,idea,vscode,visualstudio,selenium,kafka" />
   </a>
 </p>
